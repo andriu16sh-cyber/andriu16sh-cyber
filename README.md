@@ -1,5 +1,3 @@
-![Uploading изображение.png…]()
-
 ## My games
 
 ### TRASH EMPIRE
