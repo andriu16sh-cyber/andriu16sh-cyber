@@ -1,16 +1,23 @@
-## Hi there 👋
+![Uploading изображение.png…]()
 
-<!--
-**andriu16sh-cyber/andriu16sh-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My games
 
-Here are some ideas to get you started:
+### TRASH EMPIRE
+Recycling and business management game for Android.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Collect materials, build production chains, restore items,
+manage workers, and improve the neighborhood.
+
+**Technology:** Godot · GDScript
+**Status:** Available for acquisition
+
+[Website](https://trash-empire-game.fey-seal-0498.chatgpt.site/)
+ ·
+[Acquisition listing](https://www.sideprojectors.com/project/103408/trash-empire)
+
+### Tivvo Workshop
+A previous game project I developed and sold to another owner.
+
+**Status:** Sold
+
+This project is part of my development portfolio.
