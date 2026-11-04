@@ -1,3 +1,4 @@
+![Game developer banner](Game-Developer-Banner.png)
 ## My games
 
 ### TRASH EMPIRE
